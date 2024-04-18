@@ -88,14 +88,16 @@ function Features() {
     },
   ];
   return (
-    <div className="flex justify-center flex-wrap md:flex-row flex-col">
+    <div className="flex justify-center flex-wrap md:flex-row flex-col ">
       {features.map((f, i) => (
-        <div
-          className="md:px-[24px] md:py-[40px] py-[35px] px-[15%] flex gap-[10px] items-center items md:border-0 border-[1px] border-[#E9E9E9]"
-          key={i}
-        >
-          <img src={f.iconSrc} className="h-[70px]" />
-          <p className="text-[18px] text-secondary font-bold">{f.desc}</p>
+        <div className="md:border-0 border-[1px] border-[#E9E9E9] flex justify-center">
+          <div
+            className="md:px-[24px] md:py-[40px] py-[35px] flex gap-[10px] items-center md:w-fit w-[300px]"
+            key={i}
+          >
+            <img src={f.iconSrc} className="h-[70px]" />
+            <p className="text-[18px] text-secondary font-bold">{f.desc}</p>
+          </div>
         </div>
       ))}
     </div>
