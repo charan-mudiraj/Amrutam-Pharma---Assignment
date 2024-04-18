@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-gradient-left {
+  background: linear-gradient(
+    90.17deg,
+    rgba(18, 18, 18, 0.88) 1.03%,
+    rgba(18, 18, 18, 0.92) calc(100% - 800px),
+    rgba(1, 1, 1, 0) 95.15%
+  );
+}
+.banner-gradient-top {
+  background: linear-gradient(
+    180deg,
+    rgba(24, 24, 24, 0.87) 0%,
+    rgba(34, 34, 34, 0.48) 100%
+  );
+}
+.gradient-plain {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.59) 2.52%,
+    rgba(0, 0, 0, 0.53) 22.87%,
+    rgba(14, 14, 14, 0.4) 100%
+  );
+}
+.gradient-rating {
+  background: linear-gradient(180deg, #0b0b0b 0%, rgba(11, 11, 11, 0.79) 100%);
+}
+.scrollbar-disable::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-disable {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
