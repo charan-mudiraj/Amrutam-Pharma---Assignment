@@ -7,6 +7,9 @@
 ## Additional Features Added
 
 - Three types of scrolls for three different types of cards.
+
   <img src="./views/gif-1.gif">
+
   <img src="./views/gif-2.gif">
+
   <img src="./views/gif-3.gif">
