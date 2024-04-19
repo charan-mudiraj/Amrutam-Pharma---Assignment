@@ -1,8 +1,12 @@
-# React + Vite
+# [LIVE LINK](https://amrutam-assignment.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# [VIDEO LINK](https://www.youtube.com/watch?v=F-ckp7gk5Ik)
 
-Currently, two official plugins are available:
+- Successfully followed all the guidelines of maintaining the integrity with smooth responsiveness and appealing animation/UI-UX.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Additional Features Added
+
+- Three types of scrolls for three different types of cards.
+  <img src="./views/gif-1.gif">
+  <img src="./views/gif-2.gif">
+  <img src="./views/gif-3.gif">
