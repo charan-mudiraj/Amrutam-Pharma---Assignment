@@ -1,4 +1,4 @@
-# [LIVE LINK](https://amrutam-assignment.vercel.app/)
+# [LIVE LINK](https://amrutam-assignment-by-charan.vercel.app/)
 
 # [VIDEO LINK](https://www.youtube.com/watch?v=F-ckp7gk5Ik)
 
