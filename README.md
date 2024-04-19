@@ -3,6 +3,7 @@
 # [VIDEO LINK](https://www.youtube.com/watch?v=F-ckp7gk5Ik)
 
 - Successfully followed all the guidelines of maintaining the integrity with smooth responsiveness and appealing animation/UI-UX.
+- Fully Responsive upto **340px**
 
 ## Additional Features Added
 
