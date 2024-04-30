@@ -1,4 +1,5 @@
 import Button1 from "./Button1";
+import bs1_Img from "../assets/bs-1.jpeg";
 
 export default function BookingSection() {
   return (
@@ -6,7 +7,7 @@ export default function BookingSection() {
       <div className="h-full overflow-hidden flex items-center w-full">
         <img
           className="w-full custom-md-0:h-auto h-full md:scale-x-[1] scale-x-[-1]"
-          src="https://s3-alpha-sig.figma.com/img/d45f/d3de/6f20e70fa75049c9e8140baa6d7e6531?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YJ4Zw4xtniavMY~CBUWygZYq6Ax70~TZ7VRjjJkbGvA~8uGXylRRZK9mnOktv86mJBOVN0GZAopUjpHWRAaV6kT62oY~HX~OQiOQdYnXFU9cUBhn-Xr7HiTIMvzKsUZU4NIomEWuECRsM164ZYe1~QDfSsMpD9XIIZKXhDLDzJlnQLmhzRt-higCBNlH~ngbaw-1LSuwYSAM6FLax53p2iHXg26ykwLZxKjZel5Uu-lFL-ROe~RYRBsNfWUgtganiCFrcvV3gBJVJyU-9uWF3CxKaxEWv52ofmVm4bsTBrEgUYUvUOBnLNTmAeP5JwncXeMEXSI-FLeBtnAyaFaySA__"
+          src={bs1_Img}
         />
       </div>
       <div className="absolute h-full top-0 w-full gradient-plain"></div>

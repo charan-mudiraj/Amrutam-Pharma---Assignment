@@ -1,4 +1,7 @@
 import Card1 from "./Card1";
+import ss1_Img from "../assets/ss-1.jpeg";
+import ss2_Img from "../assets/ss-2.png";
+import ss3_Img from "../assets/ss-3.jpeg";
 
 const cards = [
   {
@@ -8,7 +11,7 @@ const cards = [
   },
   {
     isImage: true,
-    url: "https://s3-alpha-sig.figma.com/img/176b/ed5d/116ec373d4d09fe1dc2dad43869868d9?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=T-BS59qFdwG4k4SvtMK44hzcBrLByEYnmkLeagoMhYiknUKV2cTC2EudBwtVEJPCEbibIRnFTOHNukcm-faw7tCn6uP03T59Fvt8S2DclDtsbIuFm~jZ~3MXukjCCD3v4YpU7HW37hfU-jRaVnKESDHj46tvEKuzNdErG~LKoHsBCjjc~oGm1CpK2Z6TWLWpejl8IfLs6dLu5UH1-EGg2ev9dWCswk6VipOs-zPbHCyZXIVnDOxcvdyf1hHC8X44agxtAxehcp7CtgL-1atV~vgDTjK62eF6m-pII6ZR~mVE9cN7~Y63RVvpAW-P-XFBwBNaBPVAWJO5NKlZtg2n0Q__",
+    url: ss1_Img,
   },
   {
     isImage: false,
@@ -17,7 +20,7 @@ const cards = [
   },
   {
     isImage: true,
-    url: "https://s3-alpha-sig.figma.com/img/23ad/ed32/94aa2a9dd47c19df140900a908a8c26c?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VVZXsvlPdkNnQcmWaBDKR1wBEj5MhTbDxixff0YyT~yVkxcDNymZfaKT7WpEz5C6VEYHUm6q0pOomYCTZIOiwj00dtTHdmaBZrtsuTNOg-xiy9l9m94O6drv9z6~ZiGLNNycQ36kGnuafas~RQ0PsF0hibtUOh~1XM3sqmeymgRxljEvYcNrKCbAt7G35pEyr-AXg76alPRarKrkoHP1X1u6uuywEhzwxS26JfbHQ5GgHTBlaQjUYk4F2dTA8FJYM~SvcmIfcyU1SOtWstpkLg1dputk5WkH0ksj8JXaj0LioIo8TEXSnlz9qwPQdtZ9ROYn4s6CxHHLrb9Q1zgASQ__",
+    url: ss2_Img,
   },
   {
     isImage: false,
@@ -26,7 +29,7 @@ const cards = [
   },
   {
     isImage: true,
-    url: "https://s3-alpha-sig.figma.com/img/63a4/2853/caf304c4ff88f018f79dedae521d759e?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J-1ZZbmuk1M7HZBspJf95gc6mYMHoDHR6VaA62O7ilpZg0d38y2A95F8Ml-yh0psazQGZQGYnCjBHpiwNJzh6jw8CUeyk8sM5j3M9FUYolkxOJy~5qFMatrkHObjQV6coXouH8HuxGwYqk-EhKvPQBzhFTNQsSvvVzTJlv6bjILM0pAme07kvKNVsR3rl1fj33Ve1-N-TpVd1tWE9s0U9A-n5~6gG7Va22w38fFyz1wDEJKwiYFxmsbZKCPxvOF5e5t7INhf9u5hdB-duupqCDGyrkwV9jmzgh5StRasVuAer7hKi73D2-mMas5paODJos3~YCp36qWxtj-XPUnuYA__",
+    url: ss3_Img,
   },
   {
     isImage: false,

@@ -4,6 +4,8 @@ import fIcon1 from "../assets/top-icon1.png";
 import fIcon2 from "../assets/top-icon2.png";
 import fIcon3 from "../assets/top-icon3.png";
 import fIcon4 from "../assets/top-icon4.png";
+import ts1_Img from "../assets/ts-1.jpeg";
+import ts2_Img from "../assets/ts-2.jpeg";
 
 function Banner() {
   return (
@@ -35,12 +37,9 @@ function Banner() {
       ></div>
       <img
         className="scale-x-[-1] absolute right-0 h-[640px] w-[789px] md:block hidden"
-        src="https://s3-alpha-sig.figma.com/img/c1af/953f/807faed30071845860b212ed47717559?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IHZz7ngJyjHmSF3Xm~Mbmvsh6XIGK9xbBYq-L7n5ZTjCHFEQbQr1XyMV0WG-YCDnhsIkxbvKacEjSMcM7IEPcK3Q4Jd4BbMPu19w7-T5~mzrToEY558ThHLz3JHbOgpzwhLkbcD37ZT9hFAnO3yx98Fm4By3YMFtyS-53wCc7Ew8wt4EBlyLzKbMuXck9MiKZLQuUo9Ix-dAeooFTnes0gZmB6JwfOhpz8JPT1jASjmtgXJ1UKtMpOGHh-jGZtoSSRJYYD8cGJDRcnOYTjke7b~xJ4DhrZaWzU-tX~Z35mdUZSoItA9bH8nbD0rWXmKnMiL84ppuGNQxQYEo9uhJjA__"
+        src={ts1_Img}
       />
-      <img
-        className="md:hidden"
-        src="https://s3-alpha-sig.figma.com/img/adfc/8fd0/85372b9b89239293b1c75db89c0bf0f4?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=q1rIxTK5MKUTBuvjEOpyrpRQPwjs11G6P-NjmCfBd9Vhf0B1zmwEpXwG9GdRGvzMe5KAD3z7~arEnhyN0niNssklq5eLsMhPaFV27YisXZVSD5VxtoY6cl5E4tRjlpgQRLCzknnbIGBxIIVSYXDSxCTv5RV9reC44TJCVAIrLESIWy7lE4biLYpAdk4LNqt0u53L~KzcShK7CTt6n74CBVneLObKaRhYoAsAtzzmJQWic9qfw9o0wIf-AAsgx3QQJ~d~vqFnMIiQtsKmZ4~QWceI~y0cvbScH1ZUDPdMOdGnxF~4XtKbBxdDzA377J7uBfanQ9cROeNbtMkNgoSjZg__"
-      />
+      <img className="md:hidden" src={ts2_Img} />
     </div>
   );
 }
